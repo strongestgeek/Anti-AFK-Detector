@@ -1,0 +1,11 @@
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/AFKSentinel.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/AFKSentinel.Core.AssemblyInfoInputs.cache
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/AFKSentinel.Core.AssemblyInfo.cs
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/AFKSentinel.Core.csproj.CoreCompileInputs.cache
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/bin/Debug/net8.0/AFKSentinel.Core.deps.json
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/bin/Debug/net8.0/AFKSentinel.Core.dll
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/bin/Debug/net8.0/AFKSentinel.Core.pdb
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/AFKSentinel.Core.dll
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/refint/AFKSentinel.Core.dll
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/AFKSentinel.Core.pdb
+/home/dan/Documents/Anti-AFK/src/AFKSentinel.Core/obj/Debug/net8.0/ref/AFKSentinel.Core.dll
