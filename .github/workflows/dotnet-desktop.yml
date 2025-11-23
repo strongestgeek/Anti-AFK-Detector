@@ -37,7 +37,6 @@
 # refer to https://github.com/microsoft/github-actions-for-desktop-apps
 
 name: Build                                                                                                                                                                                                                    
-run: dotnet build "AFK-Sentinel.sln" --configuration Release
 
 on:
   push:
